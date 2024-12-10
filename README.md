@@ -3,10 +3,10 @@ Defcon Yearly Countdown Timer
 
 Fill in the nesscessary config parts found in > settings.go 
 
-defconDate = ""
-Token = ""
-config.ChannelID = ""
-config.BotID = ""
+ - defconDate = ""
+ - Token = ""
+ - config.ChannelID = ""
+ - config.BotID = ""
 
 Have Ollam installed. 
 
