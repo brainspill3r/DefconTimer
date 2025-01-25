@@ -1,5 +1,5 @@
 # DefconTimer
-Defcon Yearly Countdown Timer
+Defcon Yearly Countdown Timer with Ollama intergration.
 
 Fill in the nesscessary config parts found in > settings.go 
 
