@@ -8,7 +8,7 @@ Fill in the nesscessary config parts found in > settings.go
  - config.ChannelID = ""
  - config.BotID = ""
 
-Have Ollam installed. 
+Have Ollama installed. 
 
 I was running the llama2 model to tell a funny joke. 
 
